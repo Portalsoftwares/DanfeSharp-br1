@@ -1,0 +1,8 @@
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\bin\Release\DanfeSharp.dll
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\bin\Release\DanfeSharp.pdb
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\bin\Release\PDFClown.dll
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Release\DanfeSharp.csprojAssemblyReference.cache
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Release\DanfeSharp.csproj.CoreCompileInputs.cache
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Release\DanfeSharp.csproj.CopyComplete
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Release\DanfeSharp.dll
+C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Release\DanfeSharp.pdb
