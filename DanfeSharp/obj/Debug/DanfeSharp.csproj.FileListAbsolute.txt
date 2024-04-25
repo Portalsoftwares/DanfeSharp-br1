@@ -14,3 +14,11 @@ C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj
 C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.dll
 C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.pdb
 C:\Termomecanica\arqsRecebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.AssemblyReference.cache
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\bin\Debug\DanfeSharp.dll
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\bin\Debug\DanfeSharp.pdb
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\bin\Debug\PDFClown.dll
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.AssemblyReference.cache
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.CoreCompileInputs.cache
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.csproj.CopyComplete
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.dll
+C:\Termomecanica\Arq_recebidos\DanfeSharp\DanfeSharp\obj\Debug\DanfeSharp.pdb

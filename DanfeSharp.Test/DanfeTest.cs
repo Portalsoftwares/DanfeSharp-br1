@@ -12,8 +12,8 @@ namespace DanfeSharp.Test
         [TestMethod]
         public void GerarDanfeXml()
         {
-            string pasta = @"D:\NFe";
-            string caminhoOut = "DanfesDeXml";
+            string pasta = @"C:\NFe";
+            string caminhoOut = @"C:\DanfesDeXml";
 
             if (!Directory.Exists(caminhoOut)) Directory.CreateDirectory(caminhoOut);
 
